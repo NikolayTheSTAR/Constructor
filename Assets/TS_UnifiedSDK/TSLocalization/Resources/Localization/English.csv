@@ -1,0 +1,15 @@
+id,English
+
+dialog.nothing, Nothing interesting.
+dialog.cantway, Looks like I can't get through here.
+dialog.empty, Nothing.
+
+------------,------------
+
+mission.name.find_sword, Найти затерянный клинок
+mission.name.kill_demon, Убить Демона
+mission.name.perfect_sphere, Найти Совершенную Сферу
+
+mission.info.find_sword, У Мастера есть сведения, что в разрушенном Синем Замке спрятано оружие, которое поможет в битве с Демоном
+mission.info.kill_demon, Вы объединяетесь с Мастером и решаете бросить вызов Демону! Правда, перед этим предстоит проделать большой путь
+mission.info.perfect_sphere, Есть Легенда о Совершенной Сфере, что скрыта за всеми Печатями. Только Истинный Искатель сможет найти её
